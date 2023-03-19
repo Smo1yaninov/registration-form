@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(0, 148, 185)
+}
+
+.wrapper{
+    width: 400px;
+    padding: 2rem 0 1rem 0;
+    margin: 45px auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgb(0, 0, 0, 0.1);
+}
+
+
+.icons_main{
+    position: absolute;
+    margin-left: 55px;
+    margin-top: 1px;
+
+}
+
+.icons_main img{
+    width: 40px;
+    height: 40px;
+}
+
+
+h1{
+    font-size: 2rem;
+    color: #07001f;
+}
+ p{
+    margin-bottom: 1.7em;
+    color: #808080;
+
+ }
+
+ form{
+    padding-top: 1.5em;
+ }
+
+ form input{
+    width: 85%;
+    outline: none;
+    border: none;
+    background: #dfe9f5;
+    padding: 12px 14px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+ }
+
+ button{
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    padding: 8px 0;
+    border-radius: 5px;
+    border: none;
+    width: 85%;
+    background: #00B7DF;
+    color: #fff;
+    cursor: pointer;
+ }
+
+ button:hover{
+    background: #008ead;
+    transform: scale(1.05);
+ }
+
+
+.or{
+    font-size: 00.8rem;
+    margin: 1.5rem;
+}
+
+.icons {
+width: 150px;
+height: 75px;
+
+}
+
+.google{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 55px;
+}
+.google img{
+    width: 53px;
+    height: 53px;
+}
+
+.facebook{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 170px;
+}
+
+.facebook img{
+    width: 53px;
+    height: 53px;
+}
+
+.vk{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 270px;
+}
+
+.vk img{
+    width: 53px;
+    height: 53px;
+}
+
+
+
+
+.signup{
+    color: #808080;
+    text-decoration: none;
+    font-size: 0.8rem;
+    margin: 0.9rem 1rem 1rem 1.5rem;
+}
+
+.signup a{
+    color: #00A5C9;
+
+}
+
+
+a:hover{
+    text-decoration: underline;
+    color: #01738d;
+
+}
+
+
